@@ -149,11 +149,7 @@ const toggleIcons = () => {
           </li>
           {showIcons && (
             <>
-              <li className="line top">
-                <a href="https://t.me/GMSArchitects">
-                  <FaTelegram/>
-                </a>
-              </li>
+             
               <li className="email top">
                 <a href="mailto:gaithaldabbas11@gmail.com">
                   <MdEmail />
